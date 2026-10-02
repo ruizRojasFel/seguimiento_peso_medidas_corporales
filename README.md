@@ -4,6 +4,8 @@
 
 *Visualiza en un gráfico la evolución de tu peso y medidas corporales a partir de un Excel.*
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/seguimiento_peso_medidas_corporales/tree/main?tab=MIT-1-ov-file)
+
 </div>
 
 <br>
