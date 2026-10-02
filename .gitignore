@@ -1,0 +1,10 @@
+# Entorno de Python
+.venv/
+__pycache__/
+
+# Datos y resultados
+*.xlsx
+*.png
+
+# Sistema operativo
+.DS_Store
